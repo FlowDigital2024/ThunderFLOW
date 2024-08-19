@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Thunder-BoldLC';
+    src: url('Thunder-BoldLC.woff2') format('woff2'),
+         url('Thunder-BoldLC.woff') format('woff'),
+         url('Thunder-BoldLC.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Satoshi-Regular';
+    src: url('Satoshi-Regular.woff2') format('woff2'),
+         url('Satoshi-Regular.woff') format('woff'),
+         url('Satoshi-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Satoshi-Bold';
+    src: url('Satoshi-Bold.woff2') format('woff2'),
+         url('Satoshi-Bold.woff') format('woff'),
+         url('Satoshi-Bold.otf') format('opentype');
+    font-weight: bold;
+    font-style: normal;
+}
